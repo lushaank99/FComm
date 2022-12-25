@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TCP Application</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="enter_ip">Enter your IP Address</string>
+    <string name="enter_the_message">Enter the Message</string>
+    <string name="sends">Send</string>
+</resources>
